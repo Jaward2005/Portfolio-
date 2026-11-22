@@ -1,9 +1,9 @@
-## PORTFOLIO-
+## PORTFOLIO
 *I am an educator, advocate, and writer. I'm a creative thinker and aspiring professional with a strong interest in learning, technology, education, law, advocacy, graphic design, video editing and leadership.*
 [Read more](hhj-u)
 
 
-# SKILLS-
+# SKILLS
 **Education & Teaching:**
 *I enjoy teaching, simplifying complex ideas and helping learners understand subjects in a way that makes learning easier and more engaging. I develop educational materials, lesson notes, exercises and revision resources for students.*
 ![image](skji->8&-hi) 
