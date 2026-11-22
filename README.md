@@ -1,5 +1,5 @@
 ## PORTFOLIO
-*I am an educator, advocate, and writer. I'm a creative thinker and aspiring professional with a strong interest in learning, technology, education, law, advocacy, graphic design, video editing and leadership.*
+*I am an educator, advocate, writer, IT and entrepreneur. I'm a creative thinker and aspiring professional with a strong interest in learning, technology, education, law, advocacy, graphic design, video editing and leadership.*
 [Read more](hhj-u)
 
 
@@ -34,3 +34,12 @@
 ![image](u67)
 [Read more](dea-se)
 
+
+# CONTACT
+*Let connect and see how we can solve problems.*
+displaying:
+- Phone: +232-31387467
+- Email: mohamedjaward217@gmail.com 
+- Location: Kenema, Sierra Leone.
+- LinkedIn: ...
+- GitHub: ...
