@@ -37,27 +37,9 @@
 
 # CONTACT
 *Let connect and see how we can solve problems.*
-displaying:
-.contact-info p {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    margin: 15px 0;
-    font-size: 16px;
-}
 
-.contact-info i {
-    font-size: 20px;
-    color: #14b8a6;
-    width: 25px;
-}
-
-.contact-info a {
-    text-decoration: none;
-    color: inherit;
-    transition: 0.3s;
-}
-
-.contact-info a:hover {
-    color: #14b8a6;
-}
+<i class="fa-brands fa-github"></i>
+<i class="fa-brands fa-linkedin"></i>
+<i class="fa-solid fa-location-dot"></i>
+<i class="fa-solid fa-envelope"></i>
+<i class="fa-solid fa-phone"></i>
