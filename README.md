@@ -5,7 +5,6 @@ I am an educator, advocate, and writer. I'm a creative thinker and aspiring prof
 # SKILLS-
 **Education & Teaching:**
 I enjoy teaching, simplifying complex ideas and helping learners understand subjects in a way that makes learning easier and more engaging. I develop educational materials, lesson notes, exercises and revision resources for students.
-![image]
 
 **Leadership & Advocacy:**
 I engage in leadership, youth participation and advocacy initiatives, particularly those focused on children, young people, education and community development. I believe leadership is about responsibility, listening, speaking up and contributing to positive change.
@@ -22,3 +21,4 @@ I work on visual designs that communicate ideas clearly and creatively. My inter
 **Video Editing & Digital Media:**
 I'm interested in visual storytelling through video editing and digital media. I explore ways to combine footage, sound, text and visual effects to create content that informs, communicates and captures attention. I as well write stories, scripts and direct movies.
 
+[read more]
