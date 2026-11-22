@@ -1,2 +1,2 @@
 # Portfolio-
-I am an advocate, writer, and a teacher.
+I am an educator, advocate, and writer.
