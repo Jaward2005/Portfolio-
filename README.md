@@ -38,8 +38,26 @@
 # CONTACT
 *Let connect and see how we can solve problems.*
 displaying:
-- Phone: +232-31387467
-- Email: mohamedjaward217@gmail.com 
-- Location: Kenema, Sierra Leone.
-- LinkedIn: ...
-- GitHub: ...
+.contact-info p {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 15px 0;
+    font-size: 16px;
+}
+
+.contact-info i {
+    font-size: 20px;
+    color: #14b8a6;
+    width: 25px;
+}
+
+.contact-info a {
+    text-decoration: none;
+    color: inherit;
+    transition: 0.3s;
+}
+
+.contact-info a:hover {
+    color: #14b8a6;
+}
