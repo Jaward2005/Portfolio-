@@ -5,7 +5,7 @@ I am an educator, advocate, and writer. I'm a creative thinker and aspiring prof
 # SKILLS-
 **Education & Teaching:**
 I enjoy teaching, simplifying complex ideas and helping learners understand subjects in a way that makes learning easier and more engaging. I develop educational materials, lesson notes, exercises and revision resources for students.
-!{image}
+![image]
 
 **Leadership & Advocacy:**
 I engage in leadership, youth participation and advocacy initiatives, particularly those focused on children, young people, education and community development. I believe leadership is about responsibility, listening, speaking up and contributing to positive change.
