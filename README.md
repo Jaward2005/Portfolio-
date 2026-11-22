@@ -36,10 +36,8 @@
 
 
 # CONTACT
-*Let connect and see how we can solve problems.*
-
-<i class="fa-brands fa-github"></i>
-<i class="fa-brands fa-linkedin"></i>
-<i class="fa-solid fa-location-dot"></i>
-<i class="fa-solid fa-envelope"></i>
-<i class="fa-solid fa-phone"></i>
+*Let connect and see how we can solve problems. 
+Phone: +232-31387467
+Email: mohamedjaward217@gmail.com 
+Quora: 
+Location: Sierra Leone, Kenema 🇸🇱 
