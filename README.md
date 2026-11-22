@@ -42,6 +42,4 @@
 
 # Email: mohamedjaward217@gmail.com 
 
-# Quora: 
-
 # Location: Sierra Leone, Kenema 🇸🇱 
