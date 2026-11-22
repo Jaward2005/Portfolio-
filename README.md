@@ -21,4 +21,4 @@ I work on visual designs that communicate ideas clearly and creatively. My inter
 **Video Editing & Digital Media:**
 I'm interested in visual storytelling through video editing and digital media. I explore ways to combine footage, sound, text and visual effects to create content that informs, communicates and captures attention. I as well write stories, scripts and direct movies.
 
-![image] 
+![image](100008052-removebg-preview-pn)
