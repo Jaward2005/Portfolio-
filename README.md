@@ -38,11 +38,8 @@
 # CONTACT
 *Let connect and see how we can solve problems.* 
 
-# Phone:
-*+232-31387467*
+# Phone: **+232-31387467**
 
-# Email:
-*mohamedjaward217@gmail.com* 
+# Email: **mohamedjaward217@gmail.com**
 
-# Location: 
-*Sierra Leone, Kenema* 🇸🇱 
+# Location: **Sierra Leone, Kenema**🇸🇱 
